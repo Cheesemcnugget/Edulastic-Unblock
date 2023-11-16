@@ -1,6 +1,6 @@
 # Edulastic-Unblock
-https://google.com \n
-https://roblox.com \n
+(https://google.com)
+(https://roblox.com)
 https://bing.com \n
 https://duckduckgo.com \n
 https://bonk.io \n
