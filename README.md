@@ -1,5 +1,5 @@
 # Edulastic-Unblock
-https://google.com (`<br>`)
+https://google.com ;&nbsp
 (https://roblox.com)
 https://bing.com \n
 https://duckduckgo.com \n
